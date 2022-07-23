@@ -1,0 +1,3 @@
+[submodule "vmilog-py"]
+	path = vmilog-py
+	url = https://github.com/openvmi/vmilog-py.git
